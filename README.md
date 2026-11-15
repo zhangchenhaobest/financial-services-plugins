@@ -1,3 +1,29 @@
+# financial-services-plugins
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Reference Claude financial-workflow agents, skills and data connectors for investment banking, equity research, private equity and wealth management.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向投行、股票研究、私募与财富管理的 Claude 金融工作流参考 Agent、Skills 与数据连接器。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Claude for Financial Services
 
 Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management.
